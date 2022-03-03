@@ -25,13 +25,13 @@
 
 <br/>
 
-### <a href="#"><img src="https://github.com/alessandromeloweb/alessandromeloweb/blob/main/images/icon_open-source.png"/></a> My Open Souce Projects
+### <a href="#"><img src="https://github.com/alessandromeloweb/alessandromeloweb/blob/main/images/icon_open-source.png"/></a> Meus Projetos
 <details>
-  <summary><b> <a href="#"><img src="https://github.com/alessandromeloweb/alessandromeloweb/blob/main/images/icon_graduation.png"/></a> Academic Projects</b></summary>
+  <summary><b> <a href="#"><img src="https://github.com/alessandromeloweb/alessandromeloweb/blob/main/images/icon_graduation.png"/></a> Projetos Academicos </b></summary>
   <table>
     <thead align="center">
       <tr border: none;>
-	<td><b><a href="#"></a>Projects</b></td>
+	<td><b><a href="#"></a>Projetos</b></td>
         <td><b><a href="#"></a>Summary</b></td>
       </tr>
     </thead>
@@ -356,16 +356,3 @@
  
 ---
 
-<p  align="center">
-	<a href="mailto:alessandromeloweb@gmail.com" target="_blank"><img src="https://github.com/alessandromeloweb/alessandromeloweb/blob/main/images/email.png" width="30">
-	</a>
-	<a href="https://stackoverflow.com/users/8329698/bruno-campos" target="_blank"><img src="https://github.com/alessandromeloweb/alessandromeloweb/blob/main/images/stackoverflow.png" width="30">
-	</a>
-	<a href="https://www.linkedin.com/in/alessandromeloweb" target="_blank"><img src="https://github.com/alessandromeloweb/alessandromeloweb/blob/main/images/linkedin.png" width="30">
-	</a>
-	<a href="https://github.com/alessandromeloweb" target="_blank"><img src="https://github.com/alessandromeloweb/alessandromeloweb/blob/main/images/github.png" width="30"></a>
-	<a href="https://profile.codersrank.io/user/alessandromeloweb" target="_blank"><img src="https://img.icons8.com/material/24/000000/source-code--v1.png" width="30">
-	</a>
-	<a href="https://medium.com/@alessandromeloweb" target="_blank"><img src="https://github.com/alessandromeloweb/alessandromeloweb/blob/main/images/medium.png" width="30">
-	</a>
-</p>
