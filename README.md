@@ -12,7 +12,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230A00AE&duration=3000&lines=Especialista+em+Sistema;Engenheiro+de+Dados;Oracle+Tuning)](https://git.io/typing-svg)
 	   
 <details>	
-  <summary><a href="#"><img src="https://github.com/alessandromeloweb/alessandromeloweb/blob/main/images/icon_github.png"/></a><b> Github Profile Stats</b></summary>
+  <summary><a href="#"><img src="https://github.com/alessandromeloweb/alessandromeloweb/blob/main/images/icon_github.png"/></a><b> Estatísticas do Perfil</b></summary>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alessandromeloweb&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=79ff97&icon_color=79ff97" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandromeloweb&exclude_repo=machine-learning&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=79ff97&icon_color=79ff97"/>
   <br/>
