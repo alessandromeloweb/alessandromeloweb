@@ -6,11 +6,11 @@
 <!-- <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=alessandromeloweb&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" width="35%" align="right"> -->
  
 <p align="left">
-  <a href="https://readme-typing-svg.herokuapp.com?color=0353B1&lines=Especialista em Sistema;Engenheiro de Dados;Oracle Tuning)]></a>
+  <a href="[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230A00AE&duration=3000&lines=Especialista+em+Sistema;Engenheiro+de+Dados;Oracle+Tuning)](https://git.io/typing-svg))]></a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=035DC5&lines=Software+Engineer;%2B8+years+of+coding+experience;Always+learninig+new+things)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230A00AE&duration=3000&lines=Especialista+em+Sistema;Engenheiro+de+Dados;Oracle+Tuning)](https://git.io/typing-svg)
+	   
 <details>	
   <summary><a href="#"><img src="https://github.com/alessandromeloweb/alessandromeloweb/blob/main/images/icon_github.png"/></a><b> Github Profile Stats</b></summary>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alessandromeloweb&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=79ff97&icon_color=79ff97" />
