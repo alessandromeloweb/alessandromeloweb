@@ -1,21 +1,12 @@
-### Ola, eu sou Alessandro Melo
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232A258A&duration=4000&lines=Especialista+em+Sistema;Engenheiro+de+Dados;Oracle+Tuning)](https://git.io/typing-svg)
-<div>
-<a href="https://github.com/alessandromeloweb">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandromeloweb&layout=compact&langs_count=7&theme=dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alessandromeloweb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
-
- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=alessandromeloweb.visitor-badgee&color=green&style=flat-square">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=alessandromeloweb.visitor-badgee&color=green&style=flat-square">
   
 <!-- <a href="https://hits.seeyoufarm.com"><img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falessandromeloweb%2Falessandromeloweb&count_bg=%233D6BC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/></a> -->
 
-## Hey There, I'm Bruno Campos 
+## Olá, eu sou Alessandro Melo!
 <!-- <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=alessandromeloweb&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" width="35%" align="right"> -->
  
 <p align="left">
-  <a href="https://readme-typing-svg.herokuapp.com?color=0353B1&lines=Software+Engineer;8%2B+years+of+coding+experience;Always+learninig+new+things)]></a>
+  <a href="https://readme-typing-svg.herokuapp.com?color=0353B1&lines=Especialista em Sistema;Engenheiro de Dados;Oracle Tuning)]></a>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=035DC5&lines=Software+Engineer;%2B8+years+of+coding+experience;Always+learninig+new+things)](https://git.io/typing-svg)
